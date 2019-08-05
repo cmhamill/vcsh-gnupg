@@ -4,8 +4,11 @@
 !/etc/gnupg/*
 /etc/gnupg/crls.d
 /etc/gnupg/private-keys-v1.d
+/etc/gnupg/pubring.kbx
+/etc/gnupg/pubring.kbx~
 /etc/gnupg/random_seed
 /etc/gnupg/reader_*.status
 /etc/gnupg/trustdb.gpg
+/etc/gnupg/sshcontrol
 !/.gitignore.d
 !/.gitignore.d/gnupg
