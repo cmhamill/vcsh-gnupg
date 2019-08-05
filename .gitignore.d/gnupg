@@ -1,0 +1,11 @@
+*
+!/etc
+!/etc/gnupg
+!/etc/gnupg/*
+/etc/gnupg/crls.d
+/etc/gnupg/private-keys-v1.d
+/etc/gnupg/random_seed
+/etc/gnupg/reader_*.status
+/etc/gnupg/trustdb.gpg
+!/.gitignore.d
+!/.gitignore.d/gnupg
